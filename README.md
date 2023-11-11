@@ -18,7 +18,7 @@ e.g. ACL injuries in women's professional football
 
 - at least 100 data points required
 - 4 variables:
-    e.g. age, trianing hours in week, kms covered in week, occupation (if not professional), previous injury, menstrual cycle
+    e.g. age, training hours in week, kms covered in week, occupation (if not professional), previous injury, menstrual cycle
 
 Use a Jupyter notebook - use images, links, code etc
 
@@ -31,7 +31,7 @@ Show research
 
 ## Running the Notebook
 
-The Jupyter notebook PfDA Assignment.ipynb can be ran in any code editor such as Visual Studio Code, or using the web application JupyerLab.
+The Jupyter notebook PfDA Assignment.ipynb can be ran in any code editor such as Visual Studio Code, or using the web application JupyterLab.
 
 The notebook contains all details in relation to the project including all references to research performed as part of the project.
 
