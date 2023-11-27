@@ -1,5 +1,5 @@
-# PfDA_Assignment 1
-Repository for PfDA Assignment Winter 2023
+# Programming for Data Anaysis  Assignment 1
+Repository for Programming for Data Anaysis Assignment 1, Winter 2023
 
 
 ## Contents
@@ -13,12 +13,12 @@ Plan for the Project:
 
 Simulate data of a phenomenon:
 
-e.g. ACL injuries in women's professional football
+e.g. ACL injuries in sport, particularly in females
     injuries in women's football
 
 - at least 100 data points required
 - 4 variables:
-    e.g. age, training hours in week, kms covered in week, occupation (if not professional), previous injury, menstrual cycle
+    e.g. sex, age, training hours in week, menstrual cycle
 
 Use a Jupyter notebook - use images, links, code etc
 
