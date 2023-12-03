@@ -9,25 +9,18 @@ This repository contains a Jupyter notebook for a data simulation project comple
 
 ## Project Plan
 
-Plan for the Project:
 
-Simulate data of a phenomenon:
+>Create a data set by simulating a real-world phenomenon of your choosing. Rather than collect data related to the phenomenon, you should model and synthesise such data using Python.
 
-e.g. ACL injuries in sport, particularly in females
-    injuries in women's football
+- At least 100 data points required
+- At least 4 variables
+- Synthesise a data set as closely matching the properties as found in research as possible
+- Use a Jupyter notebook - use images, links, code etc
+- Research likely relationships between variables, their distributions and relationships/ correlation with each other
+- Simulate data by devising an algorithm.
+- Show research
 
-- at least 100 data points required
-- 4 variables:
-    e.g. sex, age, training hours in week, menstrual cycle
-
-Use a Jupyter notebook - use images, links, code etc
-
-Research likely relationships between variables, their distributions and relationships/ correlation with each other
-
-Simulate data by devising an algorithm.
-
-Show research
-
+The phenomenon I have chosen is based on ACL injuries in sport, particularly in female athletes.
 
 ## Running the Notebook
 
