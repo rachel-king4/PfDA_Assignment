@@ -1,4 +1,4 @@
-# Programming for Data Anaysis  Assignment 1
+# Programming for Data Analysis  Assignment 1
 Repository for Programming for Data Anaysis Assignment 1, Winter 2023
 
 
